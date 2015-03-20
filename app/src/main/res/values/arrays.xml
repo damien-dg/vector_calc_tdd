@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calculation_types">calculation_types
+        <item>Addition</item>
+        <item>Dot Product</item>
+        <item>Vector Product</item>
+    </string-array>
+
+</resources>
